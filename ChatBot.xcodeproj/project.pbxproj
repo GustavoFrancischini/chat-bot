@@ -7,9 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		754EE9812B8FA2860024DBE2 /* RespostasBot.swift in Sources */ = {isa = PBXBuildFile; fileRef = 754EE9802B8FA2860024DBE2 /* RespostasBot.swift */; };
+		754EE9822B8FA3630024DBE2 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 75FEBA2C2B87FCD6001A927E /* ViewController.swift */; };
 		75FEBA292B87FCD6001A927E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 75FEBA282B87FCD6001A927E /* AppDelegate.swift */; };
 		75FEBA2B2B87FCD6001A927E /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 75FEBA2A2B87FCD6001A927E /* SceneDelegate.swift */; };
-		75FEBA2D2B87FCD6001A927E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 75FEBA2C2B87FCD6001A927E /* ViewController.swift */; };
 		75FEBA302B87FCD6001A927E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 75FEBA2E2B87FCD6001A927E /* Main.storyboard */; };
 		75FEBA322B87FCD8001A927E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 75FEBA312B87FCD8001A927E /* Assets.xcassets */; };
 		75FEBA352B87FCD8001A927E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 75FEBA332B87FCD8001A927E /* LaunchScreen.storyboard */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		754EE9802B8FA2860024DBE2 /* RespostasBot.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RespostasBot.swift; sourceTree = "<group>"; };
 		75FEBA252B87FCD6001A927E /* ChatBot.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ChatBot.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		75FEBA282B87FCD6001A927E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		75FEBA2A2B87FCD6001A927E /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -65,6 +67,7 @@
 				75FEBA312B87FCD8001A927E /* Assets.xcassets */,
 				75FEBA332B87FCD8001A927E /* LaunchScreen.storyboard */,
 				75FEBA362B87FCD8001A927E /* Info.plist */,
+				754EE9802B8FA2860024DBE2 /* RespostasBot.swift */,
 			);
 			path = ChatBot;
 			sourceTree = "<group>";
@@ -146,8 +149,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				75FEBA2D2B87FCD6001A927E /* ViewController.swift in Sources */,
 				75FEBA292B87FCD6001A927E /* AppDelegate.swift in Sources */,
+				754EE9812B8FA2860024DBE2 /* RespostasBot.swift in Sources */,
+				754EE9822B8FA3630024DBE2 /* ViewController.swift in Sources */,
 				75FEBA2B2B87FCD6001A927E /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
