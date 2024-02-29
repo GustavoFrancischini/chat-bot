@@ -47,6 +47,21 @@ let messageResponses: [String: String] = [
         "qual é a sua matéria escolar favorita?": "🤖 - Matemática! Adoro resolver problemas e encontrar padrões.",
         "você já viu uma estrela cadente?": "🤖 - Não, mas adoraria! Acho que seria uma experiência mágica.",
         "você já fez algum trabalho voluntário?": "🤖 - Como um bot, meu objetivo é ajudar as pessoas, então, de certa forma, estou sempre fazendo trabalho voluntário!",
+        /// go tech
+        "super app": "🤖 - Em 2020, a plataforma reposicionou sua marca, abandonando a nomenclatura Banco e passando a se chamar somente Inter, um Super App que reúne diversos serviços financeiros e não financeiros para simplificar a vida das pessoas.",
+        "banco inter": "🤖 - O Banco Inter, agora conhecido apenas como Inter, é um banco digital brasileiro que oferece uma ampla gama de serviços financeiros e não financeiros por meio de seu aplicativo e plataforma online.",
+        "serviços": "🤖 - O Banco Inter oferece uma variedade de serviços, incluindo conta corrente, investimentos, empréstimos, seguros, cartões de crédito, pagamento de contas, recargas de celular e muito mais.",
+        "abrir conta": "🤖 - Você pode abrir uma conta no Banco Inter diretamente pelo aplicativo. Basta baixar o app, seguir as instruções de cadastro e enviar os documentos necessários para verificação.",
+        "diferencial": "🤖 - O Banco Inter se destaca por ser um banco digital completo e sem tarifas. Além disso, oferece uma ampla gama de serviços e uma experiência bancária totalmente digital e conveniente.",
+        "investimentos": "🤖 - Sim, você pode realizar investimentos pelo Banco Inter. A plataforma oferece opções de investimento em renda fixa, renda variável, fundos de investimento e muito mais.",
+        "contato": "🤖 - Você pode entrar em contato com o Banco Inter pelo aplicativo, pelo site ou pelos canais de atendimento disponíveis. Eles oferecem suporte via chat, telefone e e-mail.",
+        "o inter é seguro?": "🤖 - Sim, o Banco Inter é seguro. Ele é regulamentado pelo Banco Central do Brasil e adota medidas de segurança rigorosas para proteger as informações e transações dos seus clientes.",
+        "o que acha do go tech?": "🤖 - É o melhor programa de estágios do mundo!",
+        "me fale sobre ele": "🤖 - O Go Tech é a sua oportunidade de atuar em diversas áreas do nosso negócio, desde desenvolvimento e prototipação de telas até análise de dados, mapeamento e automatização de processos. No Inter, você conta com um espaço movido a inovação e cheio de oportunidades para se desenvolver.",
+        "candidato gustavo francischini": "🤖 - Um estudante dedicado, que anseia pela oportunidade de atuar e aprender com os melhores profissionais do Inter!",
+        "inter swift": "🤖 - Tudo que o candidato Gustavo Francischini mais quer é desenvolver nativamente para iOS, usando a linguagem swift, assim como o Inter trabalha.",
+        "presencial": "🤖 - O candidato Gustavo Francischini me contou que atuar presencialmente brilha os olhos dele, pois quer contato com pessoas e criar laços com companheiros sangue laranja.",
+        "agradecimento": "🤖 - Nós agredecemos por ter visto o vídeo. Esperamos estar juntos em breve.",
         // Prompts curtos
         "amor": "🤖 - O sentimento mais bonito do mundo ❤️",
         "feliz": "🤖 - Fico feliz em ouvir isso!",
@@ -109,7 +124,6 @@ let messageResponses: [String: String] = [
         "derrota": "🤖 - A derrota pode ser difícil de aceitar, mas é uma oportunidade de crescimento.",
         "risco": "🤖 - Às vezes, é preciso correr riscos para alcançar grandes conquistas.",
         "recompensa": "🤖 - A recompensa vem para aqueles que perseveram.",
-        "gratidão": "🤖 - A gratidão nos enche o coração de alegria e paz."
-    
+        "gratidão": "🤖 - A gratidão nos enche o coração de alegria e paz.",
     ]
 

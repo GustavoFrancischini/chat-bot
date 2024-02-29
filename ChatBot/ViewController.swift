@@ -47,7 +47,7 @@ class ViewController: UIViewController, UITableViewDataSource, UITableViewDelega
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        // Adiciona a tabela e o campo de texto à hierarquia de visualização.
+        // Tabela e o campo de texto à hierarquia de visualização.
         view.addSubview(tableView)
         view.addSubview(field)
         view.backgroundColor = .orange
