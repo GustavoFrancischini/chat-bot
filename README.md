@@ -5,7 +5,3 @@
 <p align="center">
   <a href="https://github.com/GustavoFrancischini/chat-bot/blob/main/ChatBot/ViewController.swift">Acesse-o clicando aqui!</a>
 </p>
-
-<p align="center">
-  <img src="https://github.com/GustavoFrancischini/chat-bot/blob/main/inter%20-%20demonstra%C3%A7%C3%A3o.gif" alt="Demonstração Interativa">
-</p>
